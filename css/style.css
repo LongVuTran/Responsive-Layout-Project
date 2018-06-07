@@ -1,3 +1,56 @@
-body {
-  font-family: 'Song Myung', serif;
+* {
+  box-sizing: border-box;
+  margin: 0;
 }
+
+body {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 16px;
+}
+
+ul {
+  margin-left: -2.5rem;
+}
+
+li {
+  display: block;
+  height: 2.56rem;
+  text-transform: uppercase;
+  list-style: none;
+  font-weight: bold;
+  margin-bottom: 5px;
+  padding-top: .8rem;
+  padding-bottom: .8rem;
+  background-color: #fff;
+
+}
+
+a {
+  width: 100%;
+  color: #4a4a4a;
+  text-decoration: none;
+}
+
+.avatar-img {
+  width: 12.75rem;
+  margin-top: 43px;
+  margin-bottom: 2rem;
+}
+
+.main-header {
+  background-color: #fafafa;
+}
+
+.name {
+  font-size: 1.6rem;
+  padding-top: 1.6rem;
+  padding-bottom: 1.9rem;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+

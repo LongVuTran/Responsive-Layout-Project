@@ -10,10 +10,6 @@ body {
   font-size: 16px;
 }
 
-ul {
-  margin-left: -2.5rem;
-}
-
 .main-header li {
   display: block;
   height: 2.56rem;
@@ -137,7 +133,7 @@ hr {
 @media (min-width: 768px) {
   .main-header li {
     display: inline-block;
-    margin-left: 3.75rem;
+        margin-left: 3.25rem;
     margin-right: 1.875rem;
     background-color: #fafafa;
   }
@@ -197,7 +193,7 @@ hr {
 @media (min-width: 1024px) {
   .name {
     float: left;
-    padding-top: 3.75rem;
+    padding-top: 2.625rem;
   }
 
   .main-header li {
